@@ -1,0 +1,83 @@
+file graded: 334765-194017 - Xiyue Zhang - Dec 13, 2021 644 PM - COMP 598 final report.pdf
+
+Overall Evaluation Rubric - Total 100 Pts
+
+======Style (Total: 10pts)=================================
++4/4 – correct use of sections
++4/4 – grammar
++1/2 – flow - (-1) what are the goals of the study? It should be more explicit in the intro, which was a bit long. 
+Overall, good flow, I was always looking forward to the next section
+
+*Style: 9 pts*
+============================================================
+
+
+======Data collection correctness (Total: 10pts)============
++6/6 - appropriate filter selection - text explains why some words/characters were removed
++1/1 – data collection timeframe (dates were specified and they were on the right range)
++1/1 – data collection volume - the number of collected tweets was correct
++2/2 – basic characteristics about the data - very insightful comments about Twitter API limitation, bias introduced by the API, strategies to collect data, etc. Excellent description! <3
+
+*Data collection correctness: 10 pts*
+============================================================
+
+======Topic design validity (Total: 15pts)==================
++5/6 - process description - (-1pt); description does not include who did the open coding (did you do it
+together at the same time?); it includes how you agreed on the topics.
++6/6 - valid process - the Methods section reports a valid process
++3/3 - insightful observations about the process - contains a reflection on possible issues with the method
+
+*Topic design validity: 14 pts*
+============================================================
+
+
+======Topic validity (Total: 15pts)==================
++2/2 – reasonable number of topics
++5/5 – topic definitions - all choices were clearly distinctive
++3/3 – relatively similar abundance among topics; perfect use of the chart (Chart 1) + Table combination (Table 2)
++2/3 – relative subjectivity for sentiment - (-1pt) Positive, negative, neutral are not properly defined in the report. It is possible to get a sense on how you labelled it based on the examples (excellent use of multi-tier pie chart on Chart 1!), but it should have been described.
++1/2 – minimal subjectivity - (-1pt) Sadly, there was no clear definition for sentiment; what are you calling "Negative" (formally)? The examples in the description
+help the reader to have an intuition, but ideally there would be also a description.
+
+Extra comment: Very work here, folks!
+
+*Topic validity: 13 pts*
+============================================================
+
+
+======Annotation quality (Total: 10pts)=====================
++3/3 - Specify members who annotated - done in the contributions section
++3/3 – Annotation process 
++4/4 – validity of the process
+
+*Annotation quality: 10 pts*
+============================================================
+
+
+
+======Results (Total: 20pts)================================
++6/6 – topic tf-idf words - properly reported; formula properly reported
++4/5 – sentiment results - properly explained, but (-1pt): as mentioned in Topic Validity (above), there is no formal description for "positive", "negative" or "neutral"
++5/5 – engagement properly discussed
++3/4 - result-specific deeper commentary - (-1pt) we expected some counter example, or outlier;
+anything that shows that no matter how polished a project is, there may be tiny issues.
+
+*Results: 18 pts*
+============================================================
+
+
+======Findings (Total: 20pts)===============================
++2/3 – tying results back to the study objective - (-1pt) Unfortunately, the goals were not explicit in the intro, but (see next point...). 
++6/6 – integrating results to make a bigger point - ... You managed to write very insightful conclusions in the end!
++4/4 – validity of interpretations
++4/4 – using results precisely - good description of the points you covered in the findings; concrete examples; excellent suggestions for future work
++3/3 – Solid use of tables; brilliant approach in Chart 1!
+
+*Findings: 19 pts*
+============================================================
+
+Overall, excellent work, folks!! I really enjoyed reading this report, and the combination of charts and tables was very good!
+Very minor writing tip (not removing points) - you repeated many times "Due to time constraints, we did not do X"; well, some limitations came by project design (i.e. single annotations), and not by time constraints.
+The Discussion section was **very** well written and it was a pleasure to read it!
+
+Score: 93
