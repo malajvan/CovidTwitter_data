@@ -17,18 +17,20 @@ We concluded that vaccination and vaccine mandates were the most widely discusse
 
 ## Authors
 
-Hong Van Pham :
+1.Hong Van Pham :
 [Email](mailto:vanhongpham01@gmail.com), [Linkedin](https://www.linkedin.com/in/vanhpham/), [Facebook](https://www.facebook.com/hiiamvan)
-Xiyue Zhang
-Yujia Luo
+
+2.Xiyue Zhang
+
+3.Yujia Luo
 
 
 ## References
 We consulted the following articles:
 
-Kwok S, Vadde S, Wang G. 2021.
+1.Kwok S, Vadde S, Wang G. 2021.
 Tweet Topics and Sentiments Relating to COVID-19 Vaccination Among Australian Twitter Users: Machine Learning Analysis. https://www.jmir.org/2021/5/e26953
 DOI: 10.2196/26953. Accessed: 2021-11-30.
 
-Chandrasekaran R, Mehta V, Valkunde T, Moustakas E. 2021. Topics, Trends, and Sentiments of Tweets About the COVID-19 Pandemic: Temporal Infoveillance Study. https://www.jmir.org/2020/10/e22624
+2.Chandrasekaran R, Mehta V, Valkunde T, Moustakas E. 2021. Topics, Trends, and Sentiments of Tweets About the COVID-19 Pandemic: Temporal Infoveillance Study. https://www.jmir.org/2020/10/e22624
 DOI: 10.2196/22624. Accessed: 2021-11-30.
